@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Mohamed Hosny
 
-<!--
-**hosnyDev/hosnyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Android Software Developer
+Highly motivated and eager to learn new things.
+Strong motivational and leadership skills.
+Ability to produce best result in pressure situation.
+Excellent communication skills in written and verbal both.
+Ability to work as individual as well as in group. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me:
+ 
+![linkedin](https://user-images.githubusercontent.com/29871113/115798701-2476e580-a3d7-11eb-8d05-b2cc974e0ce9.png)(https://www.linkedin.com/in/hosnydev/)
