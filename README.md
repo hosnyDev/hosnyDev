@@ -10,4 +10,6 @@ Ability to work as individual as well as in group.
 
 #### Connect with me:
  
-![linkedin](https://www.linkedin.com/in/hosnydev/)
+
+[![linkedin](https://user-images.githubusercontent.com/29871113/115799002-d31b2600-a3d7-11eb-8df6-ef93fddf1aae.png)](https://www.linkedin.com/in/hosnydev/)
+
