@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hosny</h1>
+<h3 align="center">{{ (>_<) }}</h3>
+                                   
 <h3 align="center">Software Developer Highly motivated and eager to learn new things. Strong motivational and leadership skills. Ability to produce best result in pressure situation. Excellent communication skills in written and verbal both. Ability to work as individual as well as in group.</h3>
 
 
